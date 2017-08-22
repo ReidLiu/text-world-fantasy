@@ -1,0 +1,4 @@
+django<1.9,>=1.8
+twisted>=12.0
+mock>=1.0.1
+pillow
